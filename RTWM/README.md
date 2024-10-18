@@ -22,7 +22,7 @@ The Real-Time Weather Monitoring System retrieves and displays live weather data
 **Add your OpenWeatherMap API key** to a `.env` file in the root directory:
 VITE_API_KEY=your_openweathermap_api_key
 
-## Installation and Setup
+## Installation 
 
 1. Clone the repository:
    ```bash
