@@ -9,5 +9,5 @@ This repository contains the submission for the Zeotap Software Engineer Intern 
 
 ## Folder Structure
 
-- `/RuleEngineApp` - Contains the code for the Rule Engine with AST.
-- `/WeatherMonitorApp` - Contains the code for the Weather Monitoring system.
+- `/Rule Engine with AST` - Contains the code for the Rule Engine with AST.
+- `/RTWM` - Contains the code for the Weather Monitoring system.
