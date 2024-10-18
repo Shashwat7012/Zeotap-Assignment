@@ -10,4 +10,6 @@ This repository contains the submission for the Zeotap Software Engineer Intern 
 ## Folder Structure
 
 - `/Rule Engine with AST` - Contains the code for the Rule Engine with AST.
-- `/RTWM` - Contains the code for the Weather Monitoring system.
+- `/RTWM` - Contains the code for the Realtime Weather Monitoring system.
+
+For more information on each application, open the respective folder and refer to the individual README files.
