@@ -1,0 +1,16 @@
+.weather-display {
+  background-color: #f0f8ff; 
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.weather-display h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.weather-display p {
+  font-size: 18px;
+}
