@@ -16,6 +16,12 @@ The Real-Time Weather Monitoring System retrieves and displays live weather data
 - **Charts**: [Recharts](https://recharts.org/)
 - **API**: [OpenWeatherMap API](https://openweathermap.org/api)
 
+
+## Setup Instructions
+
+**Add your OpenWeatherMap API key** to a `.env` file in the root directory:
+VITE_API_KEY=your_openweathermap_api_key
+
 ## Installation and Setup
 
 1. Clone the repository:
@@ -23,10 +29,8 @@ The Real-Time Weather Monitoring System retrieves and displays live weather data
    git clone <repository-url>
    cd RTWM
    npm install
-Add your OpenWeatherMap API key to a .env file in the root directory:
-VITE_API_KEY=your_openweathermap_api_key
-Start the development server:
-npm run dev
+   Start the development server:
+   npm run dev
 
 ## Usage
 
@@ -49,4 +53,4 @@ The application automatically refreshes weather data every 5 minutes to ensure y
 ---
 
 ## Thank You
-Thank you for checking out our Real-Time Weather Monitoring System! We hope you find it useful and enjoyable. Happy coding!
+Thank you for checking out our Real-Time Weather Monitoring System! I hope you find it useful and enjoyable.
